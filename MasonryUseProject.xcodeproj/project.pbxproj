@@ -15,6 +15,13 @@
 		922E76191DE3DD14007CA311 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 922E76171DE3DD14007CA311 /* LaunchScreen.storyboard */; };
 		922E76241DE3DD15007CA311 /* MasonryUseProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E76231DE3DD15007CA311 /* MasonryUseProjectTests.m */; };
 		922E762F1DE3DD15007CA311 /* MasonryUseProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E762E1DE3DD15007CA311 /* MasonryUseProjectUITests.m */; };
+		922E763E1DE40DF6007CA311 /* Cell1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E763D1DE40DF6007CA311 /* Cell1ViewController.m */; };
+		922E76411DE40E55007CA311 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E76401DE40E55007CA311 /* BaseViewController.m */; };
+		922E76441DE415C6007CA311 /* Cell2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E76431DE415C6007CA311 /* Cell2ViewController.m */; };
+		922E76471DE4190F007CA311 /* Cell3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E76461DE4190F007CA311 /* Cell3ViewController.m */; };
+		922E764A1DE41C2F007CA311 /* Cell4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E76491DE41C2F007CA311 /* Cell4ViewController.m */; };
+		922E764D1DE41D48007CA311 /* Cell5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E764C1DE41D48007CA311 /* Cell5ViewController.m */; };
+		922E76501DE41DE5007CA311 /* Cell6ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 922E764F1DE41DE5007CA311 /* Cell6ViewController.m */; };
 		D612E0CA04E5A35BF5892CA8 /* libPods-MasonryUseProject.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA1003FF9613E7C6BAE00F8E /* libPods-MasonryUseProject.a */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +61,20 @@
 		922E762A1DE3DD15007CA311 /* MasonryUseProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasonryUseProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		922E762E1DE3DD15007CA311 /* MasonryUseProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasonryUseProjectUITests.m; sourceTree = "<group>"; };
 		922E76301DE3DD15007CA311 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		922E763C1DE40DF6007CA311 /* Cell1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell1ViewController.h; sourceTree = "<group>"; };
+		922E763D1DE40DF6007CA311 /* Cell1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell1ViewController.m; sourceTree = "<group>"; };
+		922E763F1DE40E55007CA311 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		922E76401DE40E55007CA311 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		922E76421DE415C6007CA311 /* Cell2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell2ViewController.h; sourceTree = "<group>"; };
+		922E76431DE415C6007CA311 /* Cell2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell2ViewController.m; sourceTree = "<group>"; };
+		922E76451DE4190F007CA311 /* Cell3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell3ViewController.h; sourceTree = "<group>"; };
+		922E76461DE4190F007CA311 /* Cell3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell3ViewController.m; sourceTree = "<group>"; };
+		922E76481DE41C2F007CA311 /* Cell4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell4ViewController.h; sourceTree = "<group>"; };
+		922E76491DE41C2F007CA311 /* Cell4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell4ViewController.m; sourceTree = "<group>"; };
+		922E764B1DE41D48007CA311 /* Cell5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell5ViewController.h; sourceTree = "<group>"; };
+		922E764C1DE41D48007CA311 /* Cell5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell5ViewController.m; sourceTree = "<group>"; };
+		922E764E1DE41DE5007CA311 /* Cell6ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell6ViewController.h; sourceTree = "<group>"; };
+		922E764F1DE41DE5007CA311 /* Cell6ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell6ViewController.m; sourceTree = "<group>"; };
 		EA1003FF9613E7C6BAE00F8E /* libPods-MasonryUseProject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MasonryUseProject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -117,6 +138,20 @@
 				922E76171DE3DD14007CA311 /* LaunchScreen.storyboard */,
 				922E761A1DE3DD14007CA311 /* Info.plist */,
 				922E76091DE3DD14007CA311 /* Supporting Files */,
+				922E763C1DE40DF6007CA311 /* Cell1ViewController.h */,
+				922E763D1DE40DF6007CA311 /* Cell1ViewController.m */,
+				922E763F1DE40E55007CA311 /* BaseViewController.h */,
+				922E76401DE40E55007CA311 /* BaseViewController.m */,
+				922E76421DE415C6007CA311 /* Cell2ViewController.h */,
+				922E76431DE415C6007CA311 /* Cell2ViewController.m */,
+				922E76451DE4190F007CA311 /* Cell3ViewController.h */,
+				922E76461DE4190F007CA311 /* Cell3ViewController.m */,
+				922E76481DE41C2F007CA311 /* Cell4ViewController.h */,
+				922E76491DE41C2F007CA311 /* Cell4ViewController.m */,
+				922E764B1DE41D48007CA311 /* Cell5ViewController.h */,
+				922E764C1DE41D48007CA311 /* Cell5ViewController.m */,
+				922E764E1DE41DE5007CA311 /* Cell6ViewController.h */,
+				922E764F1DE41DE5007CA311 /* Cell6ViewController.m */,
 			);
 			path = MasonryUseProject;
 			sourceTree = "<group>";
@@ -348,8 +383,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				922E763E1DE40DF6007CA311 /* Cell1ViewController.m in Sources */,
+				922E76441DE415C6007CA311 /* Cell2ViewController.m in Sources */,
+				922E764D1DE41D48007CA311 /* Cell5ViewController.m in Sources */,
+				922E76411DE40E55007CA311 /* BaseViewController.m in Sources */,
+				922E764A1DE41C2F007CA311 /* Cell4ViewController.m in Sources */,
+				922E76501DE41DE5007CA311 /* Cell6ViewController.m in Sources */,
 				922E76111DE3DD14007CA311 /* ViewController.m in Sources */,
 				922E760E1DE3DD14007CA311 /* AppDelegate.m in Sources */,
+				922E76471DE4190F007CA311 /* Cell3ViewController.m in Sources */,
 				922E760B1DE3DD14007CA311 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -584,6 +626,7 @@
 				922E76351DE3DD15007CA311 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		922E76361DE3DD15007CA311 /* Build configuration list for PBXNativeTarget "MasonryUseProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -592,6 +635,7 @@
 				922E76381DE3DD15007CA311 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		922E76391DE3DD15007CA311 /* Build configuration list for PBXNativeTarget "MasonryUseProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -600,6 +644,7 @@
 				922E763B1DE3DD15007CA311 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
